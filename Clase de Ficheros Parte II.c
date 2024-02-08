@@ -12,7 +12,7 @@
 
 //---------------------------------------------------------------------------------------------------------------
 // RECUERDA QUE SI  QUIERES HABRIR UN FICHERO, DEBES CREAR EN UN ARCHIVO POR EJEMPLO ".txt" DENTRO DE PROYECTO,
-// JUSTO DONDE EST¡ EL main.C
+// JUSTO DONDE EST√Å EL main.C
 //---------------------------------------------------------------------------------------------------------------
 
 struct Fichero {
@@ -57,10 +57,10 @@ for(;;){
  printf("\nContenido de %sn",miFichero.nombre);
  printf("\n------------------------\n");
 
-        while (fgets(miFichero.texto, 1000, fichero) != NULL) { //"fgets" se utiliza para leer una lÌnea de texto de un fichero.
+        while (fgets(miFichero.texto, 1000, fichero) != NULL) { //"fgets" se utiliza para leer una l√≠nea de texto de un fichero.
 
-                                                                // Lee el fichero lÌnea por lÌnea hasta llegar al final del fichero.
-                                                                // Cada lÌnea leÌda se almacena en "miFichero.texto"
+                                                                // Lee el fichero l√≠nea por l√≠nea hasta llegar al final del fichero.
+                                                                // Cada l√≠nea le√≠da se almacena en "miFichero.texto"
 
             printf("%s", miFichero.texto);
 
@@ -76,7 +76,7 @@ printf("\n------------------------\n");
 
 
 //-------------------------------------------------------------------------------------------------------------------------------------
-printf("\n\n\nHola, espero que te haya ayudado este codigo, si quieres la parte 3 de ficheros,\nescribe a enriquebraquehaisdelara@gmail.com o mira mi Github EnriqueBDL.");
+printf("\n\n\nHola, espero que te haya ayudado este codigo, si quieres la parte 3 de ficheros, mira mi Github EnriqueBDL.");
 printf("\n\nEste documento es de uso pribado, por lo que si se comparte sin permiso, sera denunciado.\n\n");
 //-------------------------------------------------------------------------------------------------------------------------------------
 
