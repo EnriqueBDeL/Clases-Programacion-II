@@ -103,7 +103,7 @@ printf("Introduce el nombre del archivo (Ejemplo: fichero.txt): "); fflush(stdin
 
 
 
-//Comprobación
+//ComprobaciÃ³n
 if (fichero == NULL) {
         printf("Error al crear el archivo!");
         return 1;
@@ -143,7 +143,7 @@ printf("Introduce el nombre del archivo (Ejemplo: fichero.txt): "); fflush(stdin
 
 
 
-//Comprobación
+//ComprobaciÃ³n
   if (elimina == 0) {
         printf("El archivo ha sido eliminado correctamente.\n");
     } else {
@@ -161,7 +161,7 @@ printf("Introduce el nombre del archivo (Ejemplo: fichero.txt): "); fflush(stdin
 
 
 //---------------------------------------------------------------------------------------------------------------
-//                                      AÑADIR TEXTO
+//                                      AÃ‘ADIR TEXTO
 //---------------------------------------------------------------------------------------------------------------
 
 
@@ -290,8 +290,8 @@ printf("\n--------------------------------------------------------------------\n
 }
 
 //-------------------------------------------------------------------------------------------------------------------------------------
-printf("\n\n\nHola, espero que te haya ayudado este codigo, si quieres la parte 2 de ficheros, escribe a enriquebraquehaisdelara@gmail.com o mira mi Github EnriqueBDL");
-printf("\nEste documento es de uso pribado, por lo que si se comparte sin permiso, sera denunciado.\n\n");
+printf("\n\n\nHola, espero que te haya ayudado este codigo, si quieres la parte 3 de ficheros, mira mi Github EnriqueBDL.");
+printf("\n\nEste documento es de uso pribado, por lo que si se comparte sin permiso, sera denunciado.\n\n");
 //-------------------------------------------------------------------------------------------------------------------------------------
 
 
