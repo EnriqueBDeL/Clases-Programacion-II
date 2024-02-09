@@ -6,7 +6,7 @@
 
 
 //-------------------------------------------------------------------
-//                           FICHEROS PARTE 4
+//                           FICHEROS PARTE 3
 //-------------------------------------------------------------------
 
 
@@ -58,7 +58,7 @@ int main()
 
     FILE *Fichero;
 
-    char nombre_del_fichero[80]; //Recuera simepre ponerle un tamaño nombre_del_fichero [Tamaño]
+    char nombre_del_fichero[80]; //Recuera simepre ponerle un tamaÃ±o nombre_del_fichero [TamaÃ±o]
 
     struct Bugatti b[4];
 
@@ -110,9 +110,9 @@ if(i<5){
 
 
    b[i].nombre_modelo[strcspn(b[i].nombre_modelo, "\n")] = '\0'; //Esta sentencia sirve para eliminar el salto de linea del fuchero.txt
-                                                            /*Lo que hace es: de "b.nombre_modelo" busca la posición de "\n" que
+                                                            /*Lo que hace es: de "b.nombre_modelo" busca la posiciÃ³n de "\n" que
                                                             es el salto de linea. Ejem: Tenemos "b.nombre_modelo[40]" y con esto detecta
-                                                            que el salto está en "b.nombre_modelo[13]".
+                                                            que el salto estÃ¡ en "b.nombre_modelo[13]".
 
                                                             Una vez detectado susitulle el "\n" por el caracter nulo '\0'.
                                                             */
@@ -141,7 +141,7 @@ if(i<5){
   }
   }  else{
 
-    printf("\nNo se pueden agregar más coches");
+    printf("\nNo se pueden agregar mÃ¡s coches");
 
 }
 
