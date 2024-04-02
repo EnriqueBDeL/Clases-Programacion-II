@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712077101 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\gestor_de_stoks_de_tarjetas_gráficas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
