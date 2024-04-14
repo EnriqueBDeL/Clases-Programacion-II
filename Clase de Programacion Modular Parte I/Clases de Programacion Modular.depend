@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1713119431 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clases de programacion modular\main.c
+	"Menu.h"
+
+1713119284 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clases de programacion modular\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
