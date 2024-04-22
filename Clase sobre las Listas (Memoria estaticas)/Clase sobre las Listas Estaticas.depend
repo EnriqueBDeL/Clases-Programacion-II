@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1713635212 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las listas estaticas\menu.c
+	"Header.h"
+
+1713771767 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las listas estaticas\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713635498 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las listas estaticas\opciones_menu.c
+	"Header.h"
+
+1713771586 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las listas estaticas\main.c
+	"Header.h"
+
