@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1713793752 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las listas (memoria dinamica)\main.c
+	"Header.h"
+
+1713793823 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las listas (memoria dinamica)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713792168 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las listas (memoria dinamica)\menu.c
+	"Header.h"
+
+1713794197 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las listas (memoria dinamica)\opciones_menu.c
+	"Header.h"
+
