@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715442225 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol videoconsolas\menu.c
+	"Header.h"
+
+1715442844 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol videoconsolas\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715445228 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol videoconsolas\main.c
+	"Header.h"
+
+1715444836 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\arbol videoconsolas\opciones_menu.c
+	"Header.h"
+
