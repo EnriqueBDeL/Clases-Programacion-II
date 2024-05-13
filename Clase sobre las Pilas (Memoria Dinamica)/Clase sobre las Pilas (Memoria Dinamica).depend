@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1715617252 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las pilas (memoria dinamica)\main.c
+	"Header.h"
+
+1715617350 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las pilas (memoria dinamica)\header.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+
+1715617252 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las pilas (memoria dinamica)\menu.c
+	"Header.h"
+
+1715617252 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las pilas (memoria dinamica)\opciones_menu.c
+	"Header.h"
+
