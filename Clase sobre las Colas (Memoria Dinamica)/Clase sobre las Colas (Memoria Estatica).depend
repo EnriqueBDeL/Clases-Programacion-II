@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715596494 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las colas (memoria estatica)\menu.c
+	"Header.h"
+
+1715612936 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las colas (memoria estatica)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715598063 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las colas (memoria estatica)\opciones_menu.c
+	"Header.h"
+
+1715613178 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las colas (memoria estatica)\main.c
+	"Header.h"
+
