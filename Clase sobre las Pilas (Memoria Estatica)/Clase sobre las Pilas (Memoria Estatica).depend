@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715616022 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las pilas (memoria estatica)\opciones_menu.c
+	"Header.h"
+
+1715616179 c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las pilas (memoria estatica)\header.h
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+
+1715616517 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las pilas (memoria estatica)\main.c
+	"Header.h"
+
+1715616517 source:c:\users\enriq\desktop\2º_cuatrimestre\programación_ii\clase sobre las pilas (memoria estatica)\menu.c
+	"Header.h"
+
