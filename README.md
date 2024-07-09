@@ -7,6 +7,6 @@ Orden para estudiar:
 5. Colas
 6. Árboles
 
-
+Si te ha gustado el material, te agradecería mucho que le dieras una estrella ⭐.
 
 Si quieres ver un poco la forma de trabajo que tenía durante mi comienzo en C, te sugiero que veas mi siguiente repositorio: https://github.com/EnriqueBDeL/Primer-Contacto-Programacion-C
