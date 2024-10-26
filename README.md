@@ -6,6 +6,8 @@ Orden para estudiar:
 4. Pilas
 5. Colas
 6. Árboles
+   
+Apuntes sobre CCT: https://github.com/EnriqueBDeL/Clases-Programacion-II/blob/main/CCT%20Programaci%C3%B3n%20II.pdf
 
 Si te ha gustado el material, te agradecería mucho que le dieras una estrella ⭐.
 
