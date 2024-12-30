@@ -91,6 +91,9 @@ Orden para estudiar:
      <a href="https://github.com/EnriqueBDeL/Clases-Programacion-II/blob/main/Clase%20Recursividad.c" target="_blank">
     <button>[Recursividad]</button>
   </a> 
+     <a href="https://github.com/EnriqueBDeL/Clases-Programacion-II/blob/main/Clase%20sobre%20la%20libreria%20time.h.c" target="_blank">
+    <button>[Libreria time.h]</button>
+  </a> 
 </div>
    
 <br><br>
