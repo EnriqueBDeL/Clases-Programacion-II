@@ -38,7 +38,19 @@ Orden para estudiar:
 <br>
 
 <div>
-3. Listas
+ 3. Programación Modular
+          <a href="https://github.com/EnriqueBDeL/Clases-Programacion-II/tree/main/Clase%20de%20Programacion%20Modular%20Parte%20I" target="_blank">
+    <button>[Programacion Modular Parte I]</button>
+  </a>
+   <a href="https://github.com/EnriqueBDeL/Clases-Programacion-II/tree/main/Clase%20de%20Programacion%20Modular%20Parte%20II" target="_blank">
+    <button>[Programacion Modular Parte II]</button>
+  </a>
+</div>
+
+<br>
+
+<div>
+4. Listas
    <a href="https://github.com/EnriqueBDeL/Clases-Programacion-II/tree/main/Clase%20sobre%20las%20Listas%20(Memoria%20estaticas)" target="_blank">
     <button>[Listas (Memoria estaticas)]</button>
   </a> 
@@ -50,7 +62,7 @@ Orden para estudiar:
 <br>
 
 <div>
-4. Pilas
+5. Pilas
    <a href="https://github.com/EnriqueBDeL/Clases-Programacion-II/tree/main/Clase%20sobre%20las%20Pilas%20(Memoria%20Estatica)" target="_blank">
     <button>[Pilas (Memoria Estatica)]</button>
   </a> 
@@ -62,7 +74,7 @@ Orden para estudiar:
  <br>
 
  <div>
-5. Colas
+6. Colas
    <a href="https://github.com/EnriqueBDeL/Clases-Programacion-II/tree/main/Clase%20sobre%20las%20Colas%20(Memoria%20Estatica)" target="_blank">
     <button>[Colas (Memoria Estatica)]</button>
   </a> 
@@ -75,7 +87,7 @@ Orden para estudiar:
   <br>
 
   <div>
-6. Árboles
+7. Árboles
        <a href="https://github.com/EnriqueBDeL/Clases-Programacion-II/tree/main/Clase%20sobre%20los%20%C3%81rboles%20(Structura%20Estatica)" target="_blank">
     <button>[Árboles (Structura Estatica)]</button>
   </a>  
