@@ -125,8 +125,13 @@ EXTRAS:
 <br>
  - Les invito a visitar mi repositorio de encriptación en C, donde pueden ver algunos de mis códigos extra sobre este tema: https://github.com/EnriqueBDeL/Encriptacion-en-C
 
+<br><br>
 
-<br><br><br>
+> [!WARNING]  
+> Este repositorio ha sido creado durante mis estudios, por lo que puede contener errores o no seguir las mejores prácticas. Se recomienda contrastar la información y tener en cuenta que esta forma de programar podría no ser la esperada o recomendada por su profesor. 
+
+
+<br><br>
 Si te ha gustado el material, te agradecería mucho que le dieras una estrella ⭐.
 
 Si quieres ver un poco la forma de trabajo que tenía durante mi comienzo en C, te sugiero que veas mi siguiente repositorio: https://github.com/EnriqueBDeL/Primer-Contacto-Programacion-C
